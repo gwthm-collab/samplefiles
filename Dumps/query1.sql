@@ -1,0 +1,1 @@
+seelect 1 from dual;
